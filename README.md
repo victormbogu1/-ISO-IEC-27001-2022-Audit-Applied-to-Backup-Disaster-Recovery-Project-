@@ -114,4 +114,4 @@ It reflects not just IT skills, but also **compliance, governance, SOA, and risk
 
 ## 📫 Connect with Me  
 If you’re interested in data protection, ISO 27001 auditing, or tailored disaster recovery solutions, let’s connect!  
-[LinkedIn Profile](#) | [Portfolio](#)
+[LinkedIn Profile](https://www.linkedin.com/in/victor-mbogu/)

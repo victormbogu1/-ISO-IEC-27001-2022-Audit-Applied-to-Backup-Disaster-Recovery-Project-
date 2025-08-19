@@ -69,7 +69,7 @@ The BDR solution was mapped against **ISO/IEC 27001:2022 Clauses and Annex A con
 ![TrueNAS Storage Screenshot](truenas-repo.png.jpeg)  
 
 ### 🔹 ISO27001 Audit Checklist (Excel Preview)  
-![Download ISO 27001 Audit Checklist](https://github.com/victormbogu1/-ISO-IEC-27001-2022-Audit-Applied-to-Backup-Disaster-Recovery-Project-/blob/921eded6b03fd4c067a265453d67e768cc293f2c/ISO27001-Audit-Checklist-CORRECTED%20(2).xlsx)  
+[Download ISO 27001 Audit Checklist](https://github.com/victormbogu1/-ISO-IEC-27001-2022-Audit-Applied-to-Backup-Disaster-Recovery-Project-/blob/921eded6b03fd4c067a265453d67e768cc293f2c/ISO27001-Audit-Checklist-CORRECTED%20(2).xlsx)  
 
 *(Screenshots are anonymized demo data for confidentiality)*  
 

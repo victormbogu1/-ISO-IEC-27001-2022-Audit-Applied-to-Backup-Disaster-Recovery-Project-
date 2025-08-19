@@ -44,7 +44,7 @@ This project highlights both **technical expertise** (system setup, backup, and 
 The BDR solution was mapped against **ISO/IEC 27001:2022 Clauses and Annex A controls**:  
 
 - **Clause 6.1 (Risk Treatment):** Risks such as data loss & ransomware were assessed and treated.  
-- **Annex A.8.12 (Data Backup):** Automated, scheduled Veeam backups stored on TrueNAS.  
+- **Annex A.8.13 (Information backup):** Automated, scheduled Veeam backups stored on TrueNAS.  
 - **Annex A.5.29 (Information Security During Disruption):** Continuity ensured during system outages.  
 - **Annex A.5.30 (ICT Readiness for Business Continuity):** Recovery readiness validated through restore tests.  
 - **Annex A.8.16 (Monitoring Activities):** Monitoring of backup operations and alerts.  
@@ -82,7 +82,7 @@ I mapped the **backup and disaster recovery solution** against ISO 27001 clauses
 
 - **Clause-only requirements (not linked to Annex A):** 4.3, 6.1.2, 7.2, 8.2, 9.2, 9.3, 10.2.  
 - **Mapped to Annex A controls:**  
-  - **A.8.12 (Data Backup)**  
+  - **A.8.13 (Information backup)**  
   - **A.5.29 (Information Security During Disruption)**  
   - **A.5.30 (ICT Readiness for Business Continuity)**  
   - **A.8.16 (Monitoring Activities)**  

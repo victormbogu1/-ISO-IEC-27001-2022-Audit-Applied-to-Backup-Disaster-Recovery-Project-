@@ -80,7 +80,15 @@ I mapped the **backup and disaster recovery solution** against ISO 27001 clauses
 
 ## 🔍 Line-by-Line Audit Mapping  
 
-- **Clause-only requirements (not linked to Annex A):** 4.3, 6.1.2, 7.2, 8.2, 9.2, 9.3, 10.2.  
+- **Clause-only requirements (not linked to Annex A):**  
+  4.3 (Determining scope),  
+  6.1.2 (Risk treatment process),  
+  7.2 (Competence),  
+  8.2 (Information security risk assessment),  
+  9.2 (Internal audit),  
+  9.3 (Management review),  
+  10.2 (Continual improvement).
+   
 - **Mapped to Annex A controls:**  
   - **A.8.13 (Information backup)**  
   - **A.5.29 (Information Security During Disruption)**  
@@ -88,7 +96,6 @@ I mapped the **backup and disaster recovery solution** against ISO 27001 clauses
   - **A.8.16 (Monitoring Activities)**  
   - **A.8.14 (Redundancy)**  
   - **A.8.21 (Security of Network Services)**  
-  - **A.8.23 (Web Filtering)** 
 - **Audit Checklist** → Built to simulate a real Lead Auditor’s review process.   
 
 ---

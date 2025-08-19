@@ -54,9 +54,6 @@ The BDR solution was mapped against **ISO/IEC 27001:2022 Clauses and Annex A con
 ---
 
 
-
----
-
 ## 📸 Screenshots Showing Test Environment
 
 ### 🔹 Backup_Process – Successful Run  
@@ -80,16 +77,18 @@ I mapped the **backup and disaster recovery solution** against ISO 27001 clauses
 
 ## 🔍 Line-by-Line Audit Mapping  
 
-- **Clause-only requirements (not linked to Annex A):**  
-  4.3 (Determining scope),  
-  6.1.2 (Risk treatment process),  
-  7.2 (Competence),  
-  8.2 (Information security risk assessment),  
-  9.2 (Internal audit),  
-  9.3 (Management review),  
-  10.2 (Continual improvement).
-   
-- **Mapped to Annex A controls:**  
+  **Clause-only requirements (not linked to Annex A):**  
+  - **4.3 (Determining scope)**  
+  - **6.1.2 (Risk treatment process)**   
+  - **7.2 (Competence)**   
+  - **8.2 (Information security risk assessment)**   
+  - **9.2 (Internal audit)**   
+  - **9.3 (Management review)**  
+  - **10.2 (Continual improvement)**
+---
+
+ 
+  **Mapped to Annex A controls:**  
   - **A.8.13 (Information backup)**  
   - **A.5.29 (Information Security During Disruption)**  
   - **A.5.30 (ICT Readiness for Business Continuity)**  
@@ -97,6 +96,7 @@ I mapped the **backup and disaster recovery solution** against ISO 27001 clauses
   - **A.8.14 (Redundancy)**  
   - **A.8.21 (Security of Network Services)**  
 - **Audit Checklist** → Built to simulate a real Lead Auditor’s review process.   
+
 
 ---
 

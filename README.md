@@ -24,7 +24,7 @@ This project highlights both my **technical expertise** and **auditing skills**.
 ## 📸 Screenshots  
 
 ### 🔹 Backup_Process – Successful Run  
-![Backup_Process.png](images/Backup_Process.jpeg)  
+![Backup_Process.png](Backup_Process.png.jpeg)  
 
 ### 🔹 Veeam Backup Job – Successful Run  
 ![Veeam Backup Screenshot](veeam-backup-success.png.jpg)  

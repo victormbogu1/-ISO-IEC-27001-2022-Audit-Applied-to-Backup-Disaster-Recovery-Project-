@@ -27,7 +27,7 @@ This project highlights both my **technical expertise** and **auditing skills**.
 ![Backup_Process.png](images/Backup_Process.jpeg)  
 
 ### 🔹 Veeam Backup Job – Successful Run  
-![Veeam Backup Screenshot](images/veeam-backup-success.png)  
+![Veeam Backup Screenshot](veeam-backup-success.png.jpg)  
 
 ### 🔹 TrueNAS – Backup Repository  
 ![TrueNAS Storage Screenshot](truenas-repo.png.jpeg)  

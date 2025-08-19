@@ -30,7 +30,7 @@ This project highlights both my **technical expertise** and **auditing skills**.
 ![Veeam Backup Screenshot](images/veeam-backup-success.png)  
 
 ### 🔹 TrueNAS – Backup Repository  
-![TrueNAS Storage Screenshot](-ISO-IEC-27001-2022-Audit-Applied-to-Backup-Disaster-Recovery-Project-/truenas-repo.png.jpeg)  
+![TrueNAS Storage Screenshot](truenas-repo.png.jpeg)  
 
 ### 🔹 ISO27001 Audit Checklist (Excel Preview)  
 ![ISO 27001 Audit Checklist](images/audit-checklist-preview.png)  
